@@ -26,8 +26,12 @@ Power BI: For building the interactive dashboard and visualizations.
 Microsoft Bing Maps API: Used to display geographic data on an interactive world map.
 Data Sources: Olympic data on athletes and medals.
 
-![overview](https://github.com/user-attachments/assets/23908808-7676-4fbe-b7bc-e18513c46b4e)
+
+
+![country](https://github.com/user-attachments/assets/59940eb4-90f6-443e-b40f-a2ae2991b090)
+
 
 ![athletes](https://github.com/user-attachments/assets/ce5d2f8c-bb91-40a1-b8bd-485eac89d42c)
 
-![country](https://github.com/user-attachments/assets/59940eb4-90f6-443e-b40f-a2ae2991b090)
+
+![overview](https://github.com/user-attachments/assets/23908808-7676-4fbe-b7bc-e18513c46b4e)
