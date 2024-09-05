@@ -22,6 +22,6 @@ Medal Distribution: Shows total medals won by country, with separate breakdowns 
 Interactive Visualizations: Dynamic charts and maps that allow users to explore the data in-depth.
 
 # Technologies Used
-# Power BI: For building the interactive dashboard and visualizations.
-# Microsoft Bing Maps API: Used to display geographic data on an interactive world map.
-# Data Sources: Olympic data on athletes and medals.
+Power BI: For building the interactive dashboard and visualizations.
+Microsoft Bing Maps API: Used to display geographic data on an interactive world map.
+Data Sources: Olympic data on athletes and medals.
